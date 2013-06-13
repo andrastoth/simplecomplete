@@ -1,0 +1,68 @@
+.auto {
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    background-color: rgb(255, 213, 25);
+    border-color: rgb(227, 132, 0);
+    border-radius: 4px;
+    border-style: solid;
+    border-width: 2px;
+    display: inline-block;
+    float: none;
+    font-family: MyriadProRegular, Verdana,sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+    list-style-type: none;
+    margin: 0;
+    padding: 2px 2px 2px 15px;
+    position: relative;
+}
+.auto .hover { background-color: lightsteelblue !important }
+.auto input {
+    background-color: whitesmoke;
+    border: 0;
+    color: grey;
+    font-weight: bold;
+    outline: 0;
+    padding: 4px;
+}
+.auto input:focus {
+    outline: 1px;
+    outline-color: lightsteelblue;
+    outline-style: solid;
+}
+.auto:hover { background-color: rgb(251, 255, 25) }
+.auto img {
+    cursor: pointer;
+    float: right;
+    height: 1em;
+    margin: 5px;
+    position: relative;
+    top: 0px;
+}
+.auto li {
+    background-color: whitesmoke;
+    cursor: pointer;
+    margin: 2px;
+    overflow: hidden;
+    position: relative;
+    text-align: left;
+}
+.over {
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    background-color: rgb(255, 213, 25);
+    border-color: rgb(227, 132, 0);
+    border-radius: 4px;
+    border-style: solid;
+    border-width: 2px;
+    font-size: 0.9em;
+    font-weight: normal;
+    margin: 0;
+    max-height: 150px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    padding: 0;
+    position: absolute;
+    width: 100%;
+    z-index: 1;
+}

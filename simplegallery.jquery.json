@@ -1,0 +1,36 @@
+﻿{
+    "name": simplecomplete
+    "title": "jQuery simpleComplete
+    "description": "jQuery plugin autofill, autocomplete.",
+    "keywords": [
+        "autofill",
+        "autocomplete",
+        "definiable functions",
+        "multiple"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Tóth András",
+        "url": "https://github.com/andrastoth/simplecomplete/master/AUTHORS.txt"
+    },
+    "maintainers": [
+        {
+            "name": "Tóth András",
+            "email": "atandrastoth@gmail.com",
+            "url": "http://atandrastoth.co.uk"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/andrastoth/simplecomplete/master/MIT-LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/andrastoth/simplecomplete/issues",
+    "homepage": "http://atandrastoth.co.uk",
+    "docs": "https://github.com/andrastoth/auto",
+    "download": "https://github.com/andrastoth/simplecomplete/archive/master.zip",
+    "dependencies": {
+        "jquery": ">=1.7"
+    }
+}
