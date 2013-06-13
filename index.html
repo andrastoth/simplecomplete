@@ -161,7 +161,7 @@
 			<div id="mapContainer"></div>
 		</div>
 		<div class = "doc">
-			<img src = "close_button.png" class = "close" style = "cursor: pointer;position: absolute;top:0;right:0;">
+			<img src = "css/img/close_button.png" class = "close" style = "cursor: pointer;position: absolute;top:0;right:0;">
 			<h1>Documentation</h1>
 			<p>Required HTML code</p>
 			<textarea name="htmlCode" readonly>
@@ -236,7 +236,7 @@ $db->disconnect();
 				});
 				$('#country').simpleComplete({
 					resultFunction: function(data) {
-						$('#container').html('<img class = "close" src = "close_button.png" style = "cursor: pointer;position: absolute;top: -20px;right: -20px;">' + data).fadeIn();
+						$('#container').html('<img class = "close" src = "css/img/close_button.png" style = "cursor: pointer;position: absolute;top: -20px;right: -20px;">' + data).fadeIn();
 					}
 				});
 				$('body').on('click', '.close', function() {

@@ -1,11 +1,11 @@
 ﻿{
-    "name": simplecomplete
-    "title": "jQuery simpleComplete
-    "description": "jQuery plugin autofill, autocomplete.",
+    "name": "simplecomplete",
+    "title": "jQuery simpleComplete",
+    "description": "jQuery plugin autofill autocomplete.",
     "keywords": [
         "autofill",
         "autocomplete",
-        "definiable functions",
+        "definiable-functions",
         "multiple"
     ],
     "version": "1.0.0",
