@@ -27,8 +27,8 @@
         }
     ],
     "bugs": "https://github.com/andrastoth/simplecomplete/issues",
-    "homepage": "http://atandrastoth.co.uk",
-    "docs": "https://github.com/andrastoth/auto",
+    "homepage": "http://atandrastoth.co.uk/webdesign",
+    "docs": "https://github.com/andrastoth/simplecomplete",
     "download": "https://github.com/andrastoth/simplecomplete/archive/master.zip",
     "dependencies": {
         "jquery": ">=1.7"
