@@ -100,7 +100,7 @@
 			}
 
 			function replaceAll(str, n) {
-				return str.substring(0, n) + '<strong>' + str.substring(n, n + input.val().length) + '</strong>' + str.substring(n + input.val().length, str.length);
+				return str.substring(0, n) + '<strong style="font-weight: bold;">' + str.substring(n, n + input.val().length) + '</strong>' + str.substring(n + input.val().length, str.length);
 			}
 
 			function ajaxCall(order, param) {
