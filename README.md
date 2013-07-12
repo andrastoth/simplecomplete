@@ -1,6 +1,8 @@
 ﻿simpleComplete jQuery-plugin
 ==========================
 
+<img src = "css/Capture.jpg">
+
 Properties:
 
 - autocomplete
