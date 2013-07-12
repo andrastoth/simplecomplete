@@ -1,7 +1,7 @@
 ﻿simpleComplete jQuery-plugin
 ==========================
 
-<img src = "css/Capture.jpg">
+<img src = "css/Capture.JPG">
 
 Properties:
 
